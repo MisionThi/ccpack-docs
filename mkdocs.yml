@@ -9,7 +9,7 @@ nav:
       - Food: item/food.md
       - Tools: item/tools.md
       - Wapons: item/wapons.md
-    - Test: test.md
+
 
 theme:
   name: material
