@@ -1,10 +1,14 @@
-site_name: Thi-origin documentation
+site_name: CCPacks documentation
 
 nav: 
     - Home: index.md
-    - Libraries: libraries.md
-    - Powers: powers.md
-    - Origins: origins.md
+    - Blocks: blocks.md
+    - Armor: armor.md
+    - Items
+      - General: item/general.md
+      - Food: item/food.md
+      - Tools: item/tools.md
+      - Wapons: item/wapons.md
     - Test: test.md
 
 theme:
