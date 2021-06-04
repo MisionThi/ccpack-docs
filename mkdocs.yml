@@ -3,8 +3,8 @@ site_name: CCPacks documentation
 nav: 
     - Home: index.md
     - Blocks: blocks.md
-    - Armor: armor.md
     - Items:
+      - Armor: armor.md
       - General: item/general.md
       - Food: item/food.md
       - Tools: item/tools.md
