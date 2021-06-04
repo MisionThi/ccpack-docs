@@ -8,7 +8,7 @@ nav:
       - General: item/general.md
       - Food: item/food.md
       - Tools: item/tools.md
-      - Wapons: item/wapons.md
+      - Wapons: item/weapons.md
 
 
 theme:
