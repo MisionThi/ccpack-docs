@@ -42,9 +42,5 @@ F --> FA[blocks] --> FAA([.json])
       FBD --> FBDD[shovels] --> FBDDA([.json])
       FBD --> FBDE[swords] --> FBDEA([.json])
 
-B -- Datapack ---> G[data]
-  G --> GA[minecraft] --> GAA[tags] --> GAAA[functions] --> GAAAA([.json])
-  G --> GB[namespace]
-    GB --> GBA[recipes] --> GBAA([.json])
-    GB --> GBB[functions] -->GBBA([.json])
+
 ```
