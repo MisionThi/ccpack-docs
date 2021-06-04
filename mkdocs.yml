@@ -4,7 +4,7 @@ nav:
     - Home: index.md
     - Blocks: blocks.md
     - Items:
-      - Armor: armor.md
+      - Armor: item/armor.md
       - General: item/general.md
       - Food: item/food.md
       - Tools: item/tools.md
